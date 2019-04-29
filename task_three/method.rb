@@ -5,8 +5,8 @@
 
 ultimate = Object.new
 def ultimate.answer
-    puts 42
-    return
+  puts 42
+  return
 end
 
 ultimate.answer #=> 42
