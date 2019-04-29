@@ -7,3 +7,6 @@ gem 'faraday'
 
 # A YAML parser and emitter. For serializing or deserializing Ruby objects to and from the YAML format.
 gem 'psych'
+
+# Ruby library for web interaction
+gem 'mechanize'
